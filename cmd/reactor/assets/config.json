@@ -1,0 +1,13 @@
+{
+  "proxyless": false,
+  "threads": 30,
+  "retry": {
+    "retry_interval": 5,
+    "max_retries": 2
+  },
+  "react": {
+    "emoji": "🎉",
+    "channel_id": "",
+    "message_id": ""
+  }
+}
